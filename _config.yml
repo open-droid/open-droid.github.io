@@ -1,1 +1,16 @@
-theme: jekyll-theme-tactile
+title: Open Droid
+email: opendroid@outlook.com
+description: >
+  OpenDroid Organization - Custom ROM Builder and Android Development
+baseurl: ""
+url: ""
+github_username:  open-droid
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
